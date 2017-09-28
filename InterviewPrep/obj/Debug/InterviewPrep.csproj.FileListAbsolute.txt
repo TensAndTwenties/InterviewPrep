@@ -1,0 +1,6 @@
+c:\users\rob\documents\visual studio 2015\Projects\InterviewPrep\InterviewPrep\bin\Debug\InterviewPrep.exe.config
+c:\users\rob\documents\visual studio 2015\Projects\InterviewPrep\InterviewPrep\bin\Debug\InterviewPrep.exe
+c:\users\rob\documents\visual studio 2015\Projects\InterviewPrep\InterviewPrep\bin\Debug\InterviewPrep.pdb
+c:\users\rob\documents\visual studio 2015\Projects\InterviewPrep\InterviewPrep\obj\Debug\InterviewPrep.csprojResolveAssemblyReference.cache
+c:\users\rob\documents\visual studio 2015\Projects\InterviewPrep\InterviewPrep\obj\Debug\InterviewPrep.exe
+c:\users\rob\documents\visual studio 2015\Projects\InterviewPrep\InterviewPrep\obj\Debug\InterviewPrep.pdb
